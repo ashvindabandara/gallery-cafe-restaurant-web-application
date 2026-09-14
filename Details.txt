@@ -1,0 +1,19 @@
+
+**registerd customer Login Details**
+
+Email: ashvindabandara75@gmail.com
+Password: 123 
+
+
+**Admin Login Details**
+
+user name: gallerycafe12
+Password: gallery123@
+
+
+**Staff Login Details**
+
+user name: staff
+Password: 123
+
+
